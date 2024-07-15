@@ -1,0 +1,197 @@
+{
+  "tablename": "Permissions",
+  "data": [
+    {
+      "id": "catalogue-create",
+      "description": "Create a new catalogue"
+    },
+    {
+      "id": "catalogue-read",
+      "description": "Read an existing catalogue"
+    },
+    {
+      "id": "catalogue-update",
+      "description": "Update an existing catalogue"
+    },
+    {
+      "id": "catalogue-delete",
+      "description": "Delete an existing catalogue"
+    },
+    {
+      "id": "creation-create",
+      "description": "Create a new creation"
+    },
+    {
+      "id": "creation-read",
+      "description": "Read an existing creation"
+    },
+    {
+      "id": "creation-update",
+      "description": "Update an existing creation"
+    },
+    {
+      "id": "creation-delete",
+      "description": "Delete an existing creation"
+    },
+    {
+      "id": "permission-create",
+      "description": "Create a new permission"
+    },
+    {
+      "id": "permission-read",
+      "description": "Read an existing permission"
+    },
+    {
+      "id": "permission-update",
+      "description": "Update an existing permission"
+    },
+    {
+      "id": "permission-delete",
+      "description": "Delete an existing permission"
+    },
+    {
+      "id": "product-create",
+      "description": "Create a new product"
+    },
+    {
+      "id": "product-read",
+      "description": "Read an existing product"
+    },
+    {
+      "id": "product-update",
+      "description": "Update an existing product"
+    },
+    {
+      "id": "product-delete",
+      "description": "Delete an existing product"
+    },
+    {
+      "id": "raw_material-create",
+      "description": "Create a new raw_material"
+    },
+    {
+      "id": "raw_material-read",
+      "description": "Read an existing raw_material"
+    },
+    {
+      "id": "raw_material-update",
+      "description": "Update an existing raw_material"
+    },
+    {
+      "id": "raw_material-delete",
+      "description": "Delete an existing raw_material"
+    },
+    {
+      "id": "repair-create",
+      "description": "Create a new repair"
+    },
+    {
+      "id": "repair-read",
+      "description": "Read an existing repair"
+    },
+    {
+      "id": "repair-update",
+      "description": "Update an existing repair"
+    },
+    {
+      "id": "repair-delete",
+      "description": "Delete an existing repair"
+    },
+    {
+      "id": "role-create",
+      "description": "Create a new role"
+    },
+    {
+      "id": "role-read",
+      "description": "Read an existing role"
+    },
+    {
+      "id": "role-update",
+      "description": "Update an existing role"
+    },
+    {
+      "id": "role-delete",
+      "description": "Delete an existing role"
+    },
+    {
+      "id": "sector-create",
+      "description": "Create a new sector"
+    },
+    {
+      "id": "sector-read",
+      "description": "Read an existing sector"
+    },
+    {
+      "id": "sector-update",
+      "description": "Update an existing sector"
+    },
+    {
+      "id": "sector-delete",
+      "description": "Delete an existing sector"
+    },
+    {
+      "id": "supplier-create",
+      "description": "Create a new supplier"
+    },
+    {
+      "id": "supplier-read",
+      "description": "Read an existing supplier"
+    },
+    {
+      "id": "supplier-update",
+      "description": "Update an existing supplier"
+    },
+    {
+      "id": "supplier-delete",
+      "description": "Delete an existing supplier"
+    },
+    {
+      "id": "tool-create",
+      "description": "Create a new tool"
+    },
+    {
+      "id": "tool-read",
+      "description": "Read an existing tool"
+    },
+    {
+      "id": "tool-update",
+      "description": "Update an existing tool"
+    },
+    {
+      "id": "tool-delete",
+      "description": "Delete an existing tool"
+    },
+    {
+      "id": "transaction-create",
+      "description": "Create a new transaction"
+    },
+    {
+      "id": "transaction-read",
+      "description": "Read an existing transaction"
+    },
+    {
+      "id": "transaction-update",
+      "description": "Update an existing transaction"
+    },
+    {
+      "id": "transaction-delete",
+      "description": "Delete an existing transaction"
+    },
+    {
+      "id": "user-create",
+      "description": "Create a new user"
+    },
+    {
+      "id": "user-read",
+      "description": "Read an existing user"
+    },
+    {
+      "id": "user-update",
+      "description": "Update an existing user"
+    },
+    {
+      "id": "user-delete",
+      "description": "Delete an existing user"
+    }
+  ]
+}

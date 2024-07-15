@@ -1,0 +1,45 @@
+{
+  "tablename": "Transactions",
+  "data": [
+    {
+      "id": 1,
+      "sector_id": 1,
+      "date": "2020-01-01",
+      "status": "draft",
+      "observation": "test1",
+      "type": "purchase"
+    },
+    {
+      "id": 2,
+      "sector_id": 1,
+      "date": "2020-01-02",
+      "status": "draft",
+      "observation": "test2",
+      "type": "purchase"
+    },
+    {
+      "id": 3,
+      "sector_id": 1,
+      "date": "2020-01-03",
+      "status": "pending",
+      "observation": "test3",
+      "type": "entry"
+    },
+    {
+      "id": 4,
+      "sector_id": 1,
+      "date": "2020-01-04",
+      "status": "pending",
+      "observation": "test4",
+      "type": "return"
+    },
+    {
+      "id": 5,
+      "sector_id": 1,
+      "date": "2020-01-05",
+      "status": "pending",
+      "observation": "test3",
+      "type": "exit"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+class Palette:
+    background = "#f0f2f5"
+    text = "#7b809a"
+    primary = "#e91e63"
+    secondary = "#7b809a"
+    info = "#1A73E8"
+    success = "#4CAF50"
+    warning = "#fb8c00"
+    error = "#F44335"
+    light = "#f0f2f5"
+    dark = "#344767"

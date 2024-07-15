@@ -1,0 +1,40 @@
+{
+  "tablename": "PriceDetails",
+  "data": [
+    {
+      "in_detail_id": 1,
+      "price": 100,
+      "discount_percentage": 0,
+      "discount_value": 0,
+      "total": 1000
+    },
+    {
+      "in_detail_id": 2,
+      "price": 100,
+      "discount_percentage": 0,
+      "discount_value": 0,
+      "total": 500
+    },
+    {
+      "in_detail_id": 3,
+      "price": 100,
+      "discount_percentage": 0,
+      "discount_value": 0,
+      "total": 700
+    },
+    {
+      "in_detail_id": 4,
+      "price": 100,
+      "discount_percentage": 0,
+      "discount_value": 0,
+      "total": 500
+    },
+    {
+      "in_detail_id": 5,
+      "price": 100,
+      "discount_percentage": 0,
+      "discount_value": 0,
+      "total": 200
+    }
+  ]
+}

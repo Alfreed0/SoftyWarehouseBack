@@ -1,0 +1,17 @@
+{
+  "tablename": "TransactionRawMaterialDetails",
+  "data": [
+    {
+      "transaction_id": 4,
+      "raw_material_id": 3,
+      "type": "in",
+      "quantity": 100
+    },
+    {
+      "transaction_id": 5,
+      "raw_material_id": 3,
+      "type": "out",
+      "quantity": 50
+    }
+  ]
+}

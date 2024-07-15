@@ -1,0 +1,22 @@
+{
+  "tablename": "Products",
+  "data": [
+    {
+      "id": 1,
+      "catalogue_id": 4,
+      "creator_id": "0999999991",
+      "sector_id": 1,
+      "last_repair": "2020-01-01",
+      "project_type": "Project 1",
+      "status": "new",
+      "to_write": true
+    },
+    {
+      "id": 2,
+      "catalogue_id": 4,
+      "sector_id": 1,
+      "status": "new",
+      "to_write": true
+    }
+  ]
+}

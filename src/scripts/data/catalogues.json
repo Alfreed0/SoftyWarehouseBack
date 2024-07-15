@@ -1,0 +1,47 @@
+{
+    "tablename": "Catalogues",
+    "data": [
+        {
+            "id": 1,
+            "supplier_id": 1,
+            "name": "Tool 1",
+            "type": "Manual",
+            "price": 10.0,
+            "image": "image1.jpg",
+            "supplier_cod": "123",
+            "international_cod": "1",
+            "category": "tool"
+        },{
+            "id": 2,
+            "supplier_id": 1,
+            "name": "Tool 2",
+            "type": "Manual",
+            "price": 10.0,
+            "image": "image1.jpg",
+            "supplier_cod": "124",
+            "international_cod": "2",
+            "category": "tool"
+        },{
+            "id": 3,
+            "supplier_id": 1,
+            "name": "Raw Material 1",
+            "measure": "Kg",
+            "type": "Manual",
+            "price": 10.0,
+            "image": "image1.jpg",
+            "supplier_cod": "125",
+            "international_cod": "3",
+            "category": "raw_material"
+        },{
+            "id": 4,
+            "supplier_id": 1,
+            "name": "Product 1",
+            "type": "Manual",
+            "price": 10.0,
+            "image": "image1.jpg",
+            "supplier_cod": "126",
+            "international_cod": "4",
+            "category": "product"
+        }
+    ]
+}

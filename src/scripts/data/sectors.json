@@ -1,0 +1,8 @@
+{
+  "tablename": "Sectors",
+  "data": [
+    { "id": 1, "name": "Waterfront" },
+    { "id": 2, "name": "Aurora" },
+    { "id": 3, "name": "Financial District" }
+  ]
+}

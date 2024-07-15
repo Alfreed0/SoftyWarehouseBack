@@ -1,0 +1,15 @@
+{
+  "tablename": "TransactionProductDetails",
+  "data": [
+    {
+      "transaction_id": 4,
+      "product_id": 1,
+      "type": "in"
+    },
+    {
+      "transaction_id": 5,
+      "product_id": 2,
+      "type": "out"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "tablename": "Purchases",
+  "data": [
+    {
+      "transaction_id": 1,
+      "invoice_id": "123456789",
+      "date": "2020-01-01",
+      "discount": 0,
+      "iva": 0,
+      "subtotal": 0,
+      "total": 100
+    },
+    {
+      "transaction_id": 2,
+      "invoice_id": "123456781",
+      "date": "2020-01-01",
+      "discount": 0,
+      "iva": 0,
+      "subtotal": 0,
+      "total": 80
+    }
+  ]
+}

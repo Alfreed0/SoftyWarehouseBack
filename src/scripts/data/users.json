@@ -1,0 +1,77 @@
+{
+  "tablename": "Users",
+  "data": [
+    {
+      "id": "0999999991",
+      "first_name": "Kippy",
+      "last_name": "Boame",
+      "email": "kboame0@discovery.com",
+      "password": "$2b$12$FCYycOnj1beb446k7YBI1.mQ/2Q.MazxpTTlMDbnqaUVNLNebp2.a",
+      "status": "Activo"
+    },
+    {
+      "id": "0999999992",
+      "first_name": "Trisha",
+      "last_name": "Ciric",
+      "email": "tciric1@ibm.com",
+      "password": "$2b$12$FCYycOnj1beb446k7YBI1.mQ/2Q.MazxpTTlMDbnqaUVNLNebp2.a",
+      "status": "Activo"
+    },
+    {
+      "id": "0999999993",
+      "first_name": "Brendis",
+      "last_name": "Parfett",
+      "email": "bparfett2@a8.net",
+      "password": "$2b$12$FCYycOnj1beb446k7YBI1.mQ/2Q.MazxpTTlMDbnqaUVNLNebp2.a",
+      "status": "Activo"
+    },
+    {
+      "id": "0999999994",
+      "first_name": "Jacky",
+      "last_name": "Lowin",
+      "email": "jlowin3@elpais.com",
+      "password": "$2b$12$FCYycOnj1beb446k7YBI1.mQ/2Q.MazxpTTlMDbnqaUVNLNebp2.a",
+      "status": "Activo"
+    },
+    {
+      "id": "0999999995",
+      "first_name": "Jayne",
+      "last_name": "Kinge",
+      "email": "jkinge4@blinklist.com",
+      "password": "$2b$12$FCYycOnj1beb446k7YBI1.mQ/2Q.MazxpTTlMDbnqaUVNLNebp2.a",
+      "status": "Activo"
+    },
+    {
+      "id": "0999999996",
+      "first_name": "Patton",
+      "last_name": "Tasseler",
+      "email": "ptasseler5@senate.gov",
+      "password": "$2b$12$FCYycOnj1beb446k7YBI1.mQ/2Q.MazxpTTlMDbnqaUVNLNebp2.a",
+      "status": "Activo"
+    },
+    {
+      "id": "0999999997",
+      "first_name": "Jerad",
+      "last_name": "Smaleman",
+      "email": "jsmaleman6@acquirethisname.com",
+      "password": "$2b$12$FCYycOnj1beb446k7YBI1.mQ/2Q.MazxpTTlMDbnqaUVNLNebp2.a",
+      "status": "Activo"
+    },
+    {
+      "id": "0999999998",
+      "first_name": "Sauveur",
+      "last_name": "Grzegorzewicz",
+      "email": "sgrzegorzewicz7@fc2.com",
+      "password": "$2b$12$FCYycOnj1beb446k7YBI1.mQ/2Q.MazxpTTlMDbnqaUVNLNebp2.a",
+      "status": "Activo"
+    },
+    {
+      "id": "0999999999",
+      "first_name": "Alister",
+      "last_name": "Manneville",
+      "email": "amanneville8@meetup.com",
+      "password": "$2b$12$FCYycOnj1beb446k7YBI1.mQ/2Q.MazxpTTlMDbnqaUVNLNebp2.a",
+      "status": "Activo"
+    }
+  ]
+}

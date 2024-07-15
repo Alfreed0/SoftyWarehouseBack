@@ -1,0 +1,40 @@
+{
+  "tablename": "Tools",
+  "data": [
+    {
+      "id": 1,
+      "owner_id": "0999999992",
+      "catalogue_id": 1,
+      "petition_date": "2020-01-01",
+      "return_date": "2020-01-02",
+      "sector_id": 1,
+      "observation": "Observation 1",
+      "status": "lended",
+      "to_write": false
+    },
+    {
+      "id": 2,
+      "catalogue_id": 1,
+      "sector_id": 1,
+      "observation": "Observation 1",
+      "status": "in_stock",
+      "to_write": true
+    },
+    {
+      "id": 3,
+      "catalogue_id": 1,
+      "sector_id": 1,
+      "observation": "Observation 1",
+      "status": "in_stock",
+      "to_write": true
+    },
+    {
+      "id": 4,
+      "catalogue_id": 1,
+      "sector_id": 1,
+      "observation": "Observation 1",
+      "status": "in_stock",
+      "to_write": true
+    }
+  ]
+}

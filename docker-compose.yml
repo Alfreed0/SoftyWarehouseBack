@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  db-arday:
+    container_name: db-arday
+    image: postgres
+    restart: always
+    environment:
+      - POSTGRES_USER=softy
+      - POSTGRES_PASSWORD=softy
+      - POSTGRES_DB=softy
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgres-data:/var/lib/postgresql/data
+
+networks:
+  api-net:

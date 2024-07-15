@@ -1,0 +1,16 @@
+{
+    "tablename": "Suppliers",
+    "data": [
+        {
+            "id": 1,
+            "name": "Juan Perez",
+            "phone": "0999999999",
+            "email": "example@example.com",
+            "ruc": "1234567890",
+            "address": "Av. 6 de Diciembre",
+            "assessor_name": "Juan Perez",
+            "assessor_phone": "0999999999",
+            "valid_sri": true
+        }
+    ]
+}

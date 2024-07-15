@@ -1,0 +1,10 @@
+{
+  "tablename": "RawMaterials",
+  "data": [
+    {
+      "id": 3,
+      "good_quantity": 100,
+      "bad_quantity": 0
+    }
+  ]
+}
